@@ -1,16 +1,28 @@
-### Hi there 👋
+## Lucas França - Full Stack Developer
 
-<!--
-**lucasfrancaid/lucasfrancaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20França-green?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfrancaid/)](https://www.linkedin.com/in/lucasfrancaid/) 
+[![Gmail Badge](https://img.shields.io/badge/-Lucas%20França-green?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lucasfrancaid@gmail.com)](mailto:lucasfrancaid@gmail.com)
 
-Here are some ideas to get you started:
+### Stacks: 
+- Node.js
+- React
+- Django
+- Javascript
+- Vue
+- Docker
+- AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning: 
+- Typescript
+- Nest.js
+- React Native
+
+### Wish stacks to learn: 
+- Java
+- Spring Boot
+- Spring MVC
+- Angular
+- Flutter
+- Kubernetes
+
+### More about my skills ⬇️
