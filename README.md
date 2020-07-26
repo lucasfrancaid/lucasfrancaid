@@ -5,8 +5,8 @@
 
 <b>Stacks:</b> Node.js, Python, Javascript, React, Django, Vue, Docker and AWS.
 
-<b>Learning:</b> Typescript, Nest.js and React Native.
+<b>Learning:</b> Typescript, DynamoDB and React Native.
 
-<b>Wish stacks to learn:</b> Java, Spring Boot, Spring MVC, Angular, Flutter and Kubernetes.
+<b>Wish stacks to learn:</b> Java, Spring Boot, Spring MVC, Angular and Kubernetes.
 
 ### More about my skills ⬇️
