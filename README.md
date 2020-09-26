@@ -1,13 +1,12 @@
-## Lucas França - Software Developer
+# Hi, I'm Lucas França 🧑🏻‍💻
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20França-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfrancaid/)](https://www.linkedin.com/in/lucasfrancaid/) 
-[![Medium Badge](https://img.shields.io/badge/-Lucas%20França-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@lucasfrancaid)](https://medium.com/@lucasfrancaid)
-[![Gmail Badge](https://img.shields.io/badge/-Lucas%20França-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lucasfrancaid@gmail.com)](mailto:lucasfrancaid@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfrancaid/)](https://www.linkedin.com/in/lucasfrancaid/) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@lucasfrancaid)](https://medium.com/@lucasfrancaid)
+[![Gmail Badge](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lucasfrancaid@gmail.com)](mailto:lucasfrancaid@gmail.com)
 
-<b>Main stacks:</b> Python, Node.js, React, Django, Vue, Docker and AWS.
+<b>About me:</b> Son of God, married, father of a little girl and Software Developer.
+My purpose is to make Jesus known and to help people find their purpose.
 
-<b>Studying:</b> Design Patterns, Typescript and React Native.
-
-<b>Wish stacks to learn:</b> Java, Spring Boot, Spring MVC, Angular and Kubernetes.
+<b>Main stacks:</b> Python, Node.js, React, Django and AWS..
 
 ### More about my skills ⬇️
