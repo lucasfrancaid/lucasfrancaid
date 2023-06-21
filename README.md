@@ -3,9 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfrancaid/)](https://www.linkedin.com/in/lucasfrancaid/) 
 [![Lucasfrancaid Badge](https://img.shields.io/badge/-Lucasfrancaid.com.br-black?style=for-the-badge&logo=Next.js&logoColor=white&link=https://lucasfrancaid.com.br/)](https://lucasfrancaid.com.br/) 
 
-As a Software Developer I can help your company, improve your product and save your money/time. I can do it because I did it before, I have saved another companies increasing their revenue, develivering important things (sometimes in an unbelievable time) with high quality that helped them to be better.
+I have been working as a Software Developer for +4 years with Senior role for +2 years. I have helped companies to improve/create their products, save money/time and increase their revenue, delivering important things (sometimes in an unbelievable time) with high quality, helping them to be competitive.
 
-What I have that made me able to do it? First things first: My family, my brain, dedication, high skills in problem solving, creative skills, commitment and a pinch of passion. Using what? Just a computer and some energetic drink haha, it is true. I can do it using Go or Golang (Gin, Gorm, Gocolly, Testify), Python (FastAPI, Flask, Django, Pytest, Pydantic, SqlAlchemy), Javascript (NodeJS, Express, VueJS, NextJS), Amazon Web Services (Lambda Functions, SQS, DynamoDB, RDS Aurora, API Gateway, S3 Bucket, SES, ECS), SQL and NoSQL Databases, Monitoring Tools (ELK, Dynatrace, Splunk, Open Telemetry), CI&CD Tools (Pre-commit, Github Actions, GitLabCI, BitbucketCI), and always writing Unit and Integration Tests, looking to apply the best practices and Design Patterns.
+I'm a creative person, dedicated, responsible and inovative. I'm intense, fast-learner, and problem solver.
+
+I can build/fix things using Go/Golang (Gin, Gorm, Gocolly, Testify), Python (FastAPI, Flask, Django, Pytest, Pydantic, SqlAlchemy), Javascript (NodeJS, Express, ReactJS, VueJS, NextJS), Amazon Web Services (EC2, Lambda Functions, SQS, SNS, API Gateway, S3 Bucket, SES), SQL Databases (PostgreSQL, MySQL, RDS Aurora), NoSQL Databases (Redis, DynamoDB, Elasticsearch), Monitoring Tools (ELK, Dynatrace, Splunk, Open Telemetry), CI&CD Tools (Github Actions, GitLabCI, BitbucketCI), and writing Automated Tests (Unit and Integration). Always looking to apply the best practices of software development and Design Patterns.
 
 Want to know more about me? Please, visit my website: https://lucasfrancaid.com.br
 
