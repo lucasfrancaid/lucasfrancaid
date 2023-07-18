@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfrancaid/)](https://www.linkedin.com/in/lucasfrancaid/) 
 [![Lucasfrancaid Badge](https://img.shields.io/badge/-Lucasfrancaid.com.br-black?style=for-the-badge&logo=Next.js&logoColor=white&link=https://lucasfrancaid.com.br/)](https://lucasfrancaid.com.br/) 
 
-I have been working as a Software Developer for +4 years with Senior role for +2 years. I have helped companies to improve/create their products, save money/time and increase their revenue, delivering important things (sometimes in an unbelievable time) with high quality, helping them to be competitive.
+As a Senior Software Developer I have helped companies to improve/create their products, save money/time and increase their revenue, delivering important things (sometimes in an unbelievable time) with high quality, helping them to be competitive.
 
 I'm a creative person, dedicated, responsible and inovative. I'm intense, fast-learner, and problem solver.
 
